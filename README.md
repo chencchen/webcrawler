@@ -8,10 +8,13 @@
 目前：
 
 1.抖音h5分享页面_signature参数  
-    文章链接：https://bbs.nightteam.cn/thread-407.htm
+>文章链接：<https://bbs.nightteam.cn/thread-407.htm>
 
 2.使用ast对某v5加密进行还原（常规配置难度）（有详细步骤）  
-    文章链接：https://bbs.nightteam.cn/thread-417.htm
+>文章链接：<https://bbs.nightteam.cn/thread-417.htm>
 
 3.使用ast对某v5加密进行还原（绝对不可逆配置难度）（各步骤结果，详细步骤省略）  
-    文章链接：https://bbs.nightteam.cn/thread-423.htm
+>文章链接：<https://bbs.nightteam.cn/thread-423.htm>
+
+4.某团h5外卖接口几个参数的加密分析
+>文章链接：<https://bbs.nightteam.cn/thread-413.htm>
