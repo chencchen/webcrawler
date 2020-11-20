@@ -18,3 +18,6 @@
 
 4.某团h5外卖接口几个参数的加密分析
 >文章链接：<https://bbs.nightteam.cn/thread-413.htm>
+
+5.某数4代的反混淆代码分享
+>文章链接：<https://mp.weixin.qq.com/s/Rm8uMv79m8z7aWMrH-ZZ8w>
