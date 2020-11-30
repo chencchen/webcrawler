@@ -21,3 +21,6 @@
 
 5.某数4代的反混淆代码分享
 >文章链接：<https://mp.weixin.qq.com/s/Rm8uMv79m8z7aWMrH-ZZ8w>
+
+6.某数4代逻辑分析 上
+>文章链接：<https://mp.weixin.qq.com/s/r3FXjvT5Mm9Ikg_bDEadcw>
