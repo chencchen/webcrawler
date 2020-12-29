@@ -24,3 +24,6 @@
 
 6.某数4代逻辑分析 上
 >文章链接：<https://mp.weixin.qq.com/s/r3FXjvT5Mm9Ikg_bDEadcw>
+
+7.某数4代逻辑分析 下
+>文章链接：<https://mp.weixin.qq.com/s/UYPnanAHnVYBh2t6f-UkPA>
