@@ -29,4 +29,4 @@
 >文章链接：<https://mp.weixin.qq.com/s/UYPnanAHnVYBh2t6f-UkPA>
 
 8.某里滑块逆向-加密篇
->文章链接：<https://mp.weixin.qq.com/s/#即将发布>
+>文章链接：<https://mp.weixin.qq.com/s/vdGtkZ580oXBsFAycvCb5Q>
