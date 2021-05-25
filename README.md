@@ -3,7 +3,7 @@
 
 # webcrawler
 
-工作上用不到的站点，留在手里浪费，会慢慢上传，分享给学习研究的人。
+工作上用不到的站点，本着知识分享，共同进步的原则，会慢慢上传，分享给学习研究的人。
 
 目前：
 
@@ -27,3 +27,6 @@
 
 7.某数4代逻辑分析 下
 >文章链接：<https://mp.weixin.qq.com/s/UYPnanAHnVYBh2t6f-UkPA>
+
+8.某里滑块逆向-加密篇
+>文章链接：<https://mp.weixin.qq.com/s/vdGtkZ580oXBsFAycvCb5Q>
