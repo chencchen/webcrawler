@@ -30,3 +30,6 @@
 
 8.某里滑块逆向-加密篇
 >文章链接：<https://mp.weixin.qq.com/s/vdGtkZ580oXBsFAycvCb5Q>
+
+9.某直聘反混淆脚本及_zp_token_生成逻辑分析
+>文章链接：<https://mp.weixin.qq.com/s/M11b5zmjuc7llpdniwFgMA>
