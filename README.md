@@ -35,3 +35,6 @@
 
 9.某直聘反混淆脚本及_zp_token_生成逻辑分析
 >文章链接：<https://mp.weixin.qq.com/s/M11b5zmjuc7llpdniwFgMA>
+
+10.某音新版本逻辑分析（2021年6月版本）
+>文章链接：<https://mp.weixin.qq.com/s/3Ey-eLME1xK74r89xk1fzw>
