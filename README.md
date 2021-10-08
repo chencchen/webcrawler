@@ -38,3 +38,6 @@
 
 10.某音新版本逻辑分析（2021年6月版本）
 >文章链接：<https://mp.weixin.qq.com/s/zSBH-NuLAZBjYP2ne2EUsw>
+
+11.DX验证码全过程详解（2021年10月版本）
+>文章链接：<https://mp.weixin.qq.com/s/r33K7eAbXnRd9kLOjq3q2Q>
