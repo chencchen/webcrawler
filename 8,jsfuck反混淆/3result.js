@@ -1,0 +1,1 @@
+Function("return eval")()("alert(1)");
