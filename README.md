@@ -44,3 +44,6 @@
 
 12.解决JSFuck混淆
 >文章链接：<https://mp.weixin.qq.com/s/gX-UzQMNw_2FQVtgiFGGeA>
+
+13.VM防护介绍及企鹅滑块分析
+>文章链接：<https://mp.weixin.qq.com/s/C8gB-D6EUliPXoMgjk0Bag>
