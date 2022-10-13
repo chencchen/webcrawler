@@ -47,3 +47,6 @@
 
 13.VM防护介绍及企鹅滑块分析
 >文章链接：<https://mp.weixin.qq.com/s/C8gB-D6EUliPXoMgjk0Bag>
+
+14.商标0401版某数VM分析及纯算法还原介绍
+>文章链接：<https://mp.weixin.qq.com/s/i9PsUy29hb_MiLOnW4wvmQ>
